@@ -19,9 +19,7 @@ A simple Weather Android app where I learned how to implement Retrofit, Gson, MV
 - **Canva** for UI assets (app icon, splash screen, background)
 
 ## Screenshots
-![AppIcon](https://github.com/aviirajsharma/weather-app/blob/main/app/src/main/res/drawable/appicon.jpg?raw=true)
-![SplashScreen](https://github.com/aviirajsharma/weather-app/blob/main/app/src/main/res/drawable/splashscreen.jpg?raw=true)
-![HomeScreen](https://github.com/aviirajsharma/weather-app/blob/main/app/src/main/res/drawable/homescreen.jpg?raw=true)
+![AppIcon](https://github.com/aviirajsharma/weather-app/blob/main/app/src/main/res/drawable/appicon.jpg?raw=true)![SplashScreen](https://github.com/aviirajsharma/weather-app/blob/main/app/src/main/res/drawable/splashscreen.jpg?raw=true)![HomeScreen](https://github.com/aviirajsharma/weather-app/blob/main/app/src/main/res/drawable/homescreen.jpg?raw=true)
 
 ## Setup & Installation
 1. Clone the repository:
